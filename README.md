@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MobileTallent
+- 👀 I’m interested in web & mobile development
+- 💞️ I’m looking to collaborate on ongoing projects at outsourcing platform.
